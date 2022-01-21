@@ -73,13 +73,13 @@
 
 #### 목재 원산지 및 공급망 정보 공유
 
-<p align = "center"><img src = "Images/5. 서비스.JPG" width = "1000" height = "400"></p>
+<p align = "center"><img src = "Images/5. 서비스.JPG" width = "1000" height = "300"></p>
 
 - 컨소시움 블록체인 기반의 평등한 정보 공유로 불법 행위 예방
 
 #### 소비자 유통 이력 확인
 
-<p align = "center"><img src = "Images/6. 유통 이력.JPG" width = "1000" height = "400"></p>
+<p align = "center"><img src = "Images/6. 유통 이력.JPG" width = "1000" height = "300"></p>
 
 - 소비자 권리 및 선택의 폭 확대
 
