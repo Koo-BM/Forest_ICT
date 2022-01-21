@@ -79,7 +79,7 @@
 
 #### 소비자 유통 이력 확인
 
-<p align = "center"><img src = "Images/6. 유통 이력.JPG" width = "1000" height = "300"></p>
+<p align = "center"><img src = "Images/6. 유통 이력.JPG" width = "1000" height = "200"></p>
 
 - 소비자 권리 및 선택의 폭 확대
 
@@ -87,7 +87,7 @@
 
 <h2>🌿 4. 기대효과</h2>
 
-<p align = "center"><img src = "Images/7. 기대 효과.JPG" width = "600" height = "600"></p>
+<p align = "center"><img src = "Images/7. 기대 효과.JPG" width = "1000" height = "300"></p>
 
 - 정부 / 가구산업계 / 소비자 / 환경으로 나누어 기대효과 설명
 
