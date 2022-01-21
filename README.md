@@ -21,7 +21,7 @@
 
 ### 목적 및 필요성
 
-<p align = "center"><img src = "Images/1. 목적.JPG" width = "400" height = "400"></p>
+<p align = "center"><img src = "Images/1. 목적.JPG" width = "1000" height = "400"></p>
 
 - 블록체인 기반 목재 유통 프로세스의 Digital Transformation을 통한 불법 벌채 근절 및 산림생태계 보호
 
