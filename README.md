@@ -2,7 +2,7 @@
 
 <h2 align="center">⛺제21회 산림 ICT 컨퍼런스<br><br>🌳목재 유통 프로세스 Digital Transformation을 위한 블록체인 SCM 플랫폼</h2>
 
-<p align = "center"><img src = "Images/상장.png" width = "400" height = "550"></p>
+<p align = "center"><img src = "Images/상장.JPG" width = "400" height = "550"></p>
 
 
 <h2>🌳 1. 개요</h2>
